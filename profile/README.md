@@ -1,4 +1,4 @@
-# ZSign & Delvek
+# ZSign & DELvEK
 
 A comprehensive iOS app signing service and repository platform.
 
@@ -29,7 +29,7 @@ This project consists of two main components:
 
 ## 📖 Usage
 
-### Signing an IPA
+### Installing Apps from zsign
 
 1. Visit [zsign.xyz](https://zsign.xyz)
 2. Upload your IPA file
@@ -38,49 +38,16 @@ This project consists of two main components:
 5. Click "Sign" and wait for processing
 6. Download your signed IPA
 
-### Installing Apps from Delvek
 
-1. Visit [delvek.net](https://delvek.net) on your iOS device
-2. Browse or search for an app
-3. Tap "Install"
-4. Follow the on-screen instructions
-5. Trust the certificate in Settings > General > VPN & Device Management
    
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-This tool is for educational purposes and personal use only. Users are responsible for:
-- Ensuring they have the right to sign and distribute applications
-- Complying with Apple's terms of service
-- Respecting intellectual property rights
-- Using signed applications legally
-
-We do not condone piracy or unauthorized distribution of copyrighted software.
-
-## 🔒 Security
-
-- All uploaded files are automatically deleted after processing
-- Certificates are encrypted at rest
-- HTTPS encryption for all data transmission
-- Regular security audits
 
 If you discover a security vulnerability, please email security@zsign.xyz
 
 ## 📧 Contact
 
 - Website: [zsign.xyz](https://zsign.xyz) | [delvek.net](https://delvek.net)
-
-
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/zsign-delvek)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/zsign-delvek)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/zsign-delvek)
-![License](https://img.shields.io/github/license/yourusername/zsign-delvek)
-
----
 
 Made with ❤️ by [zsign.xyz]
